@@ -189,6 +189,9 @@ nav {
     flex: 1;
     display: flex;
     align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
 }
 .about-me__img {
     width: 100%;
